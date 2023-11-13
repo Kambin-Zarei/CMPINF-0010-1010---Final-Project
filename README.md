@@ -4,7 +4,7 @@ Team Name: **Team**
 
 Team Members:
 - **Ajay A. Ohm Nathan (aao59@pitt.edu)**
-- **Jacob M. Sobotka (TBD)**
+- **Jacob M. Sobotka (jms807@pitt.edu)**
 - **Kambin P. Zarei (kpz3@pitt.edu)**
 
 Datasets (Links + Descriptions):
